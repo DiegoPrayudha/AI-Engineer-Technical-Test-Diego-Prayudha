@@ -1,4 +1,4 @@
-# AI-Engineer-Technical-Test-Diego-Prayudha
+
 # 🧠 AI Engineer Take-Home Test – Financial Document Extraction (EKAD)
 
 This repository contains my solution for the **AI Engineer Take-Home Test**, focused on extracting and structuring financial data from the **annual financial statement of PT Ekadharma International Tbk (EKAD)**.  
